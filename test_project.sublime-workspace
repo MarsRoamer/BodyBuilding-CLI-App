@@ -1,0 +1,247 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 664.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jon/Desktop/Bodybuilding-CLI-App/test.rb",
+		"/C/Users/Jon/Desktop/Bodybuilding-CLI-App/test1.rb",
+		"/C/Users/Jon/Desktop/fetch.js",
+		"/C/Users/Jon/Desktop/Ruby practice/scraping.rb",
+		"/C/Users/Jon/Desktop/OOP practice.rb",
+		"/C/Users/Jon/Desktop/Crypto Scraper/scripts.js",
+		"/C/Users/Jon/Desktop/Crypto Scraper/style.css",
+		"/C/Users/Jon/Desktop/Crypto Scraper/index.html",
+		"/C/Users/Jon/Desktop/woodpecker/.git/class Song",
+		"/C/Users/Jon/Desktop/index.html",
+		"/C/Users/Jon/Desktop/dog.rb",
+		"/C/Users/Jon/Desktop/woodpecker/.git/COMMIT_EDITMSG",
+		"/C/Users/Jon/Desktop/zenbot/zenbot/lib/engine.js",
+		"/C/Users/Jon/Desktop/zenbot/zenbot/zenbot.js",
+		"/C/Users/Jon/Desktop/zenbot/zenbot/README.md",
+		"/C/Users/Jon/Desktop/zenbot/zenbot/node_modules/npm-run-path/index.js",
+		"/C/Users/Jon/Desktop/zenbot/zenbot/scripts/genetic_backtester/darwin.js",
+		"/C/Users/Jon/Desktop/woodpecker/README.md",
+		"/C/Users/Jon/Desktop/style.css",
+		"/C/Users/Jon/LambdaSchool/Precourse/.git/COMMIT_EDITMSG",
+		"/C/Users/Jon/Desktop/Lesson2.html",
+		"/C/Users/Jon/Desktop/practicepage.css",
+		"/C/Users/Jon/hello/Rakefile.rb",
+		"/C/Users/Jon/hello/hello.rb",
+		"/C/Users/Jon/hello/.git/COMMIT_EDITMSG",
+		"/C/Users/Jon/[hello]/hello.rb",
+		"/C/Users/Jon/Desktop/SA1.js",
+		"/C/Users/Jon/Desktop/git_tutorial/repos/lab_15/hello.rb",
+		"/C/Users/Jon/Desktop/HTML and CSS/todolistjs.html",
+		"/C/Users/Jon/Desktop/HTML and CSS/todolistjs.js",
+		"/C/Users/Jon/Desktop/HTML and CSS/forloopsproblemset.html",
+		"/C/Users/Jon/Desktop/HTML and CSS/JS Stalker Exercise.html",
+		"/C/Users/Jon/Desktop/HTML and CSS/Functions.html",
+		"/C/Users/Jon/Desktop/HTML and CSS/numberguess.html",
+		"/C/Users/Jon/Desktop/HTML and CSS/numberguess.js",
+		"/C/Users/Jon/Desktop/HTML and CSS/forloopsproblemset.js",
+		"/C/Users/Jon/Desktop/HTML and CSS/JS Stalker Data.js",
+		"/C/Users/Jon/Desktop/HTML and CSS/whileloopsproblemset.js",
+		"/C/Users/Jon/Desktop/HTML and CSS/whileloopsproblemset.html",
+		"/C/Users/Jon/Desktop/HTML and CSS/agecalculator.html",
+		"/C/Users/Jon/Desktop/HTML and CSS/agecalculator.js",
+		"/C/Users/Jon/Desktop/HTML and CSS/index.html",
+		"/C/Users/Jon/Desktop/HTML and CSS/script.js",
+		"/C/Users/Jon/Desktop/HTML and CSS/photogrid.html",
+		"/C/Users/Jon/Desktop/HTML and CSS/photogrid.css",
+		"/C/Users/Jon/Desktop/HTML and CSS/moreselectors1.css",
+		"/C/Users/Jon/Desktop/HTML and CSS/selectors.css",
+		"/C/Users/Jon/Desktop/tictactoe.html",
+		"/C/Users/Jon/Desktop/tictactoe.css",
+		"/C/Users/Jon/Desktop/boxmodel.css",
+		"/C/Users/Jon/Desktop/fonts.css",
+		"/C/Users/Jon/Desktop/HTML and CSS/moreselectors.html",
+		"/C/Users/Jon/Desktop/boxmodel.html",
+		"/C/Users/Jon/Desktop/fonts.html",
+		"/C/Users/Jon/Desktop/moreselectors.html",
+		"/C/Users/Jon/Desktop/moreselectors1.css",
+		"/C/Users/Jon/Desktop/selectorsExercise.html",
+		"/C/Users/Jon/AppData/Local/Temp/Temp1_10-Selector-Exercise-Solution.zip/10_Selector_Exercise_Solution/solution.css",
+		"/C/Users/Jon/Desktop/selectors.css",
+		"/C/Users/Jon/Desktop/._selectorsExercise.html",
+		"/C/Users/Jon/Desktop/aboutme.html",
+		"/C/Users/Jon/Desktop/cssbasics.css",
+		"/C/Users/Jon/Desktop/todolist.html",
+		"/C/Users/Jon/Desktop/todos.css",
+		"/C/Users/Jon/Desktop/forms.html",
+		"/C/Users/Jon/Desktop/Inputs.html",
+		"/C/Users/Jon/Desktop/testing.html",
+		"/C/Users/Jon/Desktop/Pokeman table.html",
+		"/C/Users/Jon/Desktop/Tables.html",
+		"/C/Users/Jon/Desktop/What I've learned so far 2.html",
+		"/C/Users/Jon/Desktop/Div.html",
+		"/C/Users/Jon/Desktop/attributes.html",
+		"/C/Users/Jon/Desktop/Things I've Learned.html",
+		"/C/Users/Jon/Desktop/FirstPage.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"d"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 225.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "test_project.sublime-project",
+	"replace":
+	{
+		"height": 59.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
