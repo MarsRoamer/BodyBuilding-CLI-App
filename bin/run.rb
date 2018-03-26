@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
-require_relative "../lib/command_line_interface.rb"
+require_relative "../lib/scraper.rb"
+
+Scraper.exercise_importer('https://www.bodybuilding.com/exercises/muscle/lats')
